@@ -20,8 +20,8 @@ Jammu & Kashmir · Ladakh · Himachal Pradesh · Uttarakhand · Sikkim · Arunac
 | ALOS PALSAR-2 | `JAXA/ALOS/PALSAR/YEARLY/SAR_EPOCH` | Independent L-band validation |
 
 ### Pipeline
-- **GEE Project:** ntr-fms
-- **Asset Folder:** `projects/ntr-fms/assets/himalayan_forest4`
+- **GEE Project:** ntr
+- **Asset Folder:** `projects/ntr/assets/himalayan_forest4`
 - **Detection:** dNBR < −0.15 OR dNDVI < −0.07 OR dNDMI < −0.05 OR dVH < −1.5 dB
   (majority voting — ≥2 sources must agree)
 - **Validation:** Hansen GFC (primary) + ALOS PALSAR-2 L-band (independent)
