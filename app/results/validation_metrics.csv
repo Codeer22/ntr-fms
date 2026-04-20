@@ -1,0 +1,12 @@
+Metric,Value
+Overall Accuracy,0.8452
+Precision (Disturbed),0.9981
+Recall (Disturbed),0.6917
+F1-Score (Disturbed),0.8171
+Cohen's Kappa,0.6903
+Commission Error,0.0019
+Omission Error,0.3083
+TP,2075.0
+TN,2996.0
+FP,4.0
+FN,925.0
